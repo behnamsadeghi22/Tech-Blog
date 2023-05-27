@@ -22,11 +22,15 @@ class GradiantColors {
   ];
   static const List<Color> tags = [
     Color.fromARGB(255, 0, 0, 0),
-    Color.fromARGB(255, 63, 63, 63),
+    Color.fromARGB(255, 120, 120, 120),
   ];
   static const List<Color> homePosterGradiantColor = [
     Color.fromARGB(0, 40, 41, 46),
     Color.fromARGB(70, 72, 20, 88),
     Color.fromARGB(255, 28, 20, 81),
+  ];
+  static const List<Color> blogPost = [
+    Color.fromARGB(255, 0, 0, 0),
+    Color.fromARGB(0, 0, 0, 0),
   ];
 }
